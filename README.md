@@ -1,2 +1,2 @@
 # Flask-security-chinese
-Flask-Security 简体中文汉化包
+将该文件夹复制到flask_security/translations/下，即可使用中文
